@@ -1,0 +1,4 @@
+Vencedor: COMPETIDOR - Scheibler - Perdedor: DESAFIANTE - Alan - Palavra Chave: MACACO
+Vencedor: COMPETIDOR - Scheibler - Perdedor: DESAFIANTE - Alan - Palavra Chave: ARVORE
+Vencedor: DESAFIANTE - Scheibler - Perdedor: COMPETIDOR - Alan - Palavra Chave: ABACATE
+Vencedor: COMPETIDOR - Alan - Perdedor: DESAFIANTE - Scheibler - Palavra Chave: ELEFANTE
